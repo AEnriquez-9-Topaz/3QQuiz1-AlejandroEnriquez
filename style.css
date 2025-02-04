@@ -1,0 +1,99 @@
+ {
+		margin: 0px;
+		padding: 0px;
+
+	}
+					
+
+html, body {
+
+		  margin: 0;
+		  height: 100%;
+		  text-align: center;
+		  background-image: url(https://static.vecteezy.com/system/resources/previews/008/867/754/non_2x/dark-green-wall-halloween-background-concept-scary-background-horror-concrete-cement-texture-for-background-free-photo.jpg);
+		  background-size: cover;
+		  height: 100%;
+		  background-repeat: repeat;
+
+
+
+		}
+.Box {
+	background-color: rgb(132, 169, 140, 0.8);
+	margin: 50px;
+	border-radius: 10px;
+	font-family: Newsreader;
+	padding: 20px;
+}
+
+h1 {
+	font-family: Akaya Kanadaka;
+}
+
+h3 {
+	font-family: Newsreader;
+}
+
+.Arithmetic {
+	border: solid black;
+	padding: 20px;
+	border-radius: 20px;
+	background-color: #CAD2C5;
+}
+
+.buton {
+	justify-content: center;
+
+
+}
+
+.row {
+	justify-content: space-evenly;
+}
+.Logic {
+
+	border: solid black;
+	padding: 30px;
+	border-radius: 10px;
+	background-color: #CAD2C5;
+}
+
+.Comparison {
+	border: solid black;
+	padding: 20px;
+	border-radius: 20px;
+	background-color: #CAD2C5;
+}
+
+.Tgiven {
+	margin: 30px;
+	border-radius: 10px;
+}
+
+
+
+
+
+.footer {
+
+	bottom: 0;
+	vertical-align: middle;
+	position: fixed;
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+	background-color: #2F3E46;
+	color: ghostwhite;
+	height: 45px;
+
+}
+
+a:link {
+	color: ghostwhite;
+	text-decoration: none;
+}
+
+a:visited {
+	color: ghostwhite;
+	text-decoration: none;
+}
